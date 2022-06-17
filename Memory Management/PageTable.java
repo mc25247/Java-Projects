@@ -1,3 +1,6 @@
+/*
+	This class implements a page table associated with a thread
+*/
 import java.util.Arrays;
 
 public class PageTable
